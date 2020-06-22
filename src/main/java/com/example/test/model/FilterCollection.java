@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 @Entity
 @NoArgsConstructor
-@Table(name = "filter_collection", schema = "test")
+@Table(name = "filter_collection")
 @Setter
 @Getter
 @EqualsAndHashCode
